@@ -1,5 +1,10 @@
 # Mars Photos App
 
+> **Réplica de estudio.** Este repositorio replica, paso a paso, el video del profesor Fabian Suarez
+> [Cómo consumir una API en Android con Retrofit + Kotlin Serialization + Coil | MVVM paso a paso](https://www.youtube.com/watch?v=-2lki3yYTbA).
+> El código base y la solución original son del profesor: [ing-fabiansuarez/MarsPhotosApp](https://github.com/ing-fabiansuarez/MarsPhotosApp).
+> Cada commit corresponde a una etapa del video. Además, se agregaron pruebas unitarias en `app/src/test`.
+
 Este proyecto está diseñado para seguir las mejores prácticas de desarrollo moderno recomendadas para Android. Es una guía práctica para la enseñanza de conceptos fundamentales y avanzados en el ecosistema Android Studio.
 
 La aplicación consume datos reales de Marte a través de la API de fotos de Android:
